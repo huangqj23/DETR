@@ -1,3 +1,13 @@
+'''
+Author: huangqj23
+Date: 2024-10-25 16:30:19
+LastEditors: huangqj23
+LastEditTime: 2024-10-26 17:35:28
+FilePath: /DETR/utils/misc.py
+Description: 
+
+Copyright (c) 2024 by FutureAI, All Rights Reserved. 
+'''
 import os
 import subprocess
 import time
